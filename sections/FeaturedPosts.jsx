@@ -1,7 +1,7 @@
 import React from 'react'
 
 const FeaturedPosts = () => {
-  return <div>FeaturedPosts</div>
+  return <div></div>
 }
 
 export default FeaturedPosts
