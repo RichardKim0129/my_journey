@@ -10,7 +10,7 @@ import {
   Comments,
   CommentsForm,
 } from '../../components'
-import { PossibleTypeExtensionsRule } from 'graphql'
+// import { PossibleTypeExtensionsRule } from 'graphql'
 
 const PostDetails = ({ post }) => {
   return (
